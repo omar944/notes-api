@@ -19,11 +19,12 @@ http://127.0.0.1:8000/
 </p>
 you will see the swagger page like this:
 </p>
-![photo_2023-02-09_20-08-57](https://user-images.githubusercontent.com/53129045/217887535-8e4192d6-6115-44b1-a555-4983c22e9c75.jpg)
+<img src=https://user-images.githubusercontent.com/53129045/217887535-8e4192d6-6115-44b1-a555-4983c22e9c75.jpg width=900/>
+
 </p>
 to use the api you need to register an account and get the key
 the authorize with it in the swagger page like the following screen:</p>
-![image](https://user-images.githubusercontent.com/53129045/217888184-00a223cd-02f2-494f-967c-46ecf392f6a7.png)
+<img src=https://user-images.githubusercontent.com/53129045/217888184-00a223cd-02f2-494f-967c-46ecf392f6a7.png />
 </p>
 then you can use the /notes end points:
 </p>
